@@ -1,0 +1,15 @@
+# Ambiente virtual
+venv/
+
+# Credenciais e chaves privadas
+.env
+wallet/
+*.sso
+*.ora
+
+# Arquivos compilados do Python
+__pycache__/
+*.pyc
+
+# Banco SQLite local (caso criado)
+*.sqlite3
